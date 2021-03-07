@@ -11,6 +11,6 @@ public class Person {
     private String name;
 
     public void greet() {
-        System.out.printf("Hey, %s", name);
+        System.out.printf("Hello, %s", name);
     }
 }
